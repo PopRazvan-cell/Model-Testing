@@ -1,3 +1,2 @@
-# realtime_object_detection
+Model Testing
 
-in refrence to tutorial: https://youtu.be/zs43IrWTzB0
